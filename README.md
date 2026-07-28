@@ -17,5 +17,7 @@
 
 # Stats 📊
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<a href="https://github.com/nox456">
+  <img width=39% src="./profile/top-langs.svg" alt="Top Langs" />
+  <img width=57% src="./profile/stats.svg" alt="GitHub Stats" />
+</a>
