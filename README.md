@@ -17,7 +17,5 @@
 
 # Stats 📊
 
-<a href="https://github.com/nox456">
-  <img width=39% src="https://github-stats-extended.vercel.app/api/top-langs?username=nox456&layout=compact&langs_count=4&theme=tokyonight&hide=python,CSS" alt="Top Langs" />
-  <img width=57% src="https://github-stats-extended.vercel.app/api?username=nox456&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&hide=contribs,stars" alt="GitHub Stats" />
-</a>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
