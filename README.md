@@ -11,7 +11,7 @@
 
 # Tecnologías 👨🏻‍💻
 
-[![Tecnologías](https://skillicons.dev/icons?i=ts,go,lua,nodejs,docker,postgres,nextjs,supabase,prisma,neovim,arch,notion&theme=dark)](https://skillicons.dev)
+[![Tecnologías](https://skillicons.dev/icons?i=ts,go,lua,nodejs,docker,postgres,nextjs,supabase,prisma,neovim,arch,notion,aws&theme=dark)](https://skillicons.dev)
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Claude Design](https://img.shields.io/badge/Claude%20Design-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
