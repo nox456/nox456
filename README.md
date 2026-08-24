@@ -33,6 +33,31 @@
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Claude Design](https://img.shields.io/badge/Claude%20Design-D97757?style=for-the-badge&logo=anthropic&logoColor=white) 
 
+# Aprendiendo actualmente 📖
+
+[![Go](https://skillicons.dev/icons?i=go&theme=dark)](https://skillicons.dev)
+[![Lua](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)
+
+### Proyectos
+<a href="https://github.com/nox456/forgesync">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nox456&repo=forgesync&theme=tokyonight"
+  />
+</a>
+<a href="https://github.com/nox456/forgectl">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nox456&repo=forgectl&theme=tokyonight"
+  />
+</a>
+<a href="https://github.com/nox456/forgesync.nvim">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nox456&repo=forgesync.nvim&theme=tokyonight"
+  />
+</a>
+
 # Stats 📊
 
 <a href="https://github.com/nox456">
