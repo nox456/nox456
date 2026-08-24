@@ -12,15 +12,15 @@
 
 # Tecnologías 👨🏻‍💻
 
-### Languages
+### Lenguajes
 
 [![Languages](https://skillicons.dev/icons?i=ts,go,lua,python&theme=dark)](https://skillicons.dev)
 
-### Tools
+### Herramientas
 
 [![Tools](https://skillicons.dev/icons?i=docker,nodejs,postgres,neovim,linux&theme=dark)](https://skillicons.dev)
 
-### Services
+### Servicios
 
 [![Services](https://skillicons.dev/icons?i=aws,supabase,notion&theme=dark)](https://skillicons.dev)
 
