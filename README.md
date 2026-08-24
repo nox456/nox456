@@ -12,9 +12,26 @@
 
 # Tecnologías 👨🏻‍💻
 
-[![Tecnologías](https://skillicons.dev/icons?i=ts,go,lua,nodejs,docker,postgres,nextjs,supabase,prisma,neovim,arch,notion,aws&theme=dark)](https://skillicons.dev)
+### Languages
 
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Claude Design](https://img.shields.io/badge/Claude%20Design-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=ts,go,lua,python&theme=dark)](https://skillicons.dev)
+
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=docker,nodejs,postgres,neovim,linux&theme=dark)](https://skillicons.dev)
+
+### Services
+
+[![Services](https://skillicons.dev/icons?i=aws,supabase,notion&theme=dark)](https://skillicons.dev)
+
+### Frameworks
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Cobra](https://img.shields.io/badge/Cobra-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+
+### AI
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Claude Design](https://img.shields.io/badge/Claude%20Design-D97757?style=for-the-badge&logo=anthropic&logoColor=white) 
 
 # Stats 📊
 
