@@ -42,19 +42,19 @@
 <a href="https://github.com/nox456/forgesync">
   <img
     align="center"
-    src="https://github-stats-extended.vercel.app/api/pin/?username=nox456&repo=forgesync&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nox456&repo=forgesync&theme=tokyonight&description_lines_count=2"
   />
 </a>
 <a href="https://github.com/nox456/forgectl">
   <img
     align="center"
-    src="https://github-stats-extended.vercel.app/api/pin/?username=nox456&repo=forgectl&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nox456&repo=forgectl&theme=tokyonight&description_lines_count=2"
   />
 </a>
 <a href="https://github.com/nox456/forgesync.nvim">
   <img
     align="center"
-    src="https://github-stats-extended.vercel.app/api/pin/?username=nox456&repo=forgesync.nvim&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nox456&repo=forgesync.nvim&theme=tokyonight&description_lines_count=2"
   />
 </a>
 
