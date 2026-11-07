@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Gabriel Vieira&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Commits  : 1727, Total PRs: 303, Total Issues: 354</desc>
+        <desc id="descId">Total Commits  : 1739, Total PRs: 308, Total Issues: 356</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 93.29687806170486;
+        stroke-dashoffset: 93.12893753787779;
       }
     }
   
@@ -184,7 +184,7 @@
         x="174.01"
         y="12.5"
         data-testid="prs"
-      >303</text>
+      >308</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="174.01"
         y="12.5"
         data-testid="issues"
-      >354</text>
+      >356</text>
     </g>
   </g>
     </svg>
